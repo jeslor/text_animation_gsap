@@ -39,10 +39,10 @@ useEffect(() => {
 
   return (
     <div  className="py-8 relative h-full w-full flex justify-center items-center backdrop-blur">
-        <h1  className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello people</h1>
-        <h1 className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello Humans</h1>
-        <h1 className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello Laura</h1>
-        <h1 className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello Uganda</h1>
+        <h1  className="myText text-[4rem] text-purple-200  abhaya-libre-bold ">AI drives dynamic web experiences.</h1>
+        <h1 className="myText text-[4rem] text-purple-200  abhaya-libre-bold ">Smart websites with AI power.</h1>
+        <h1 className="myText text-[4rem] text-purple-200  abhaya-libre-bold ">Web design meets AI innovation.</h1>
+        <h1 className="myText text-[4rem] text-purple-200  abhaya-libre-bold ">AI enhances web development creativity.</h1>
     </div>
   )
 }
