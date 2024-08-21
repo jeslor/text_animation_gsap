@@ -38,7 +38,7 @@ useEffect(() => {
 
 
   return (
-    <div  className="py-8 relative h-full w-full flex justify-center items-center">
+    <div  className="py-8 relative h-full w-full flex justify-center items-center backdrop-blur">
         <h1  className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello people</h1>
         <h1 className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello Humans</h1>
         <h1 className="myText text-[4rem] text-slate-100 font-bold abhaya-libre-bold ">Hello Laura</h1>
