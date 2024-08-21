@@ -14,5 +14,8 @@
   background-blend-mode: normal, multiply, normal, normal;
 }
 h1 {
+  position: absolute;
+  width: 100%;
+  text-align: center;
   text-shadow: rgb(39, 27, 45) 1px 0 10px;
 }
