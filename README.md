@@ -4,7 +4,7 @@ This project demonstrates how to animate text using GSAP (GreenSock Animation Pl
 
 
 ## 🚀 Demo
-[Live Demo](#)
+[Live Demo](https://text-animation-gsap.vercel.app/)
 
 ## ✨ Features
 - 🎨 Smooth and performant text animations using GSAP.
